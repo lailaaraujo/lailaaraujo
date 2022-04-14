@@ -24,8 +24,3 @@ empregos:
         env:
           GITHUB_TOKEN: ${{ segredos. GITHUB_TOKEN }}
   
-© 2022 GitHub, Inc.
-Termos
-Privacidade
-Segurança
-Es
