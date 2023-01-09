@@ -1,7 +1,7 @@
 ## Olá, eu sou Laila Araujo
 
 - 🔭 Atualmente trabalho como assistente admnistrativo, mas estou buscando minha primeira experiência na área de dev.
-- 🌱 CC50 Harvard e Faculdade de Tecnologia da Informação.
+- 🌱 Faculdade de Tecnologia da Informação.
 - 📫 Contate-me no email: laila.araujosoul@gmail.com
 - 😄 ela/dela
 
