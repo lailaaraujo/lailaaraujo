@@ -1,6 +1,6 @@
 ## Olá, eu sou Laila Araujo
 
-- 🔭 Atualmente trabalho como assistente admnistrativo, mas estou buscando minha primeira experiência na área de dev.
+- 🔭 Atualmente trabalho como técnica de TI suporte de software, mas procuro uma primeira oportunidade como DEV.
 - 🌱 Faculdade de Tecnologia da Informação.
 - 📫 Contate-me no email: laila.araujosoul@gmail.com
 - 😄 ela/dela
