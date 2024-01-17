@@ -1,6 +1,6 @@
 ## Olá, eu sou Laila Araujo
 
-- 🔭 Atualmente trabalho como técnica de TI suporte de software, mas procuro uma primeira oportunidade como DEV.
+- 🔭 Atualmente trabalho como técnica de TI suporte de software, mas estou em busca de uma primeira oportunidade como DEV.
 - 🌱 Faculdade de Tecnologia da Informação.
 - 📫 Contate-me no email: laila.araujosoul@gmail.com
 - 😄 ela/dela
